@@ -1,0 +1,2 @@
+This is my first file handling program in python
+this is my secong line

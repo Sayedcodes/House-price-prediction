@@ -1,0 +1,989 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Princess Day 👑</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Quicksand', sans-serif;
+            overflow-x: hidden;
+            background: #fff;
+            position: relative;
+        }
+
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.75);
+            z-index: 1000;
+            backdrop-filter: blur(3px);
+        }
+
+        .overlay.active {
+            display: block;
+        }
+
+        .page {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .content {
+            max-width: 100%;
+            width: 100%;
+            text-align: center;
+            z-index: 10;
+        }
+
+        /* Page 1 - Welcome */
+        #page1 {
+            background: linear-gradient(135deg, #ffd1dc 0%, #ffb3d9 50%, #ff9ec9 100%);
+        }
+
+        .crown-big {
+            font-size: 100px;
+            animation: bounce 2s ease-in-out infinite;
+            display: inline-block;
+            margin: 20px 0;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0) scale(1); }
+            50% { transform: translateY(-20px) scale(1.1); }
+        }
+
+        .title-main {
+            font-family: 'Dancing Script', cursive;
+            font-size: 3rem;
+            color: #ff1493;
+            margin: 20px 0;
+            text-shadow: 2px 2px 4px rgba(255, 20, 147, 0.3);
+        }
+
+        .subtitle-text {
+            font-size: 1.1rem;
+            color: #ff1493;
+            margin: 15px 20px;
+            font-weight: 500;
+        }
+
+        /* Page 2 - Envelope Letter */
+        #page2 {
+            background: linear-gradient(135deg, #fff5f7 0%, #ffe0ec 100%);
+        }
+
+        .envelope-wrapper {
+            perspective: 1000px;
+            margin: 40px auto;
+            max-width: 350px;
+        }
+
+        .envelope-container {
+            width: 100%;
+            max-width: 350px;
+            height: 220px;
+            position: relative;
+            margin: 0 auto;
+            cursor: pointer;
+        }
+
+        .envelope-back {
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #f8f8f5 0%, #f0f0eb 100%);
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            border: 2px solid #d4d4c8;
+            position: relative;
+        }
+
+        .envelope-back::before {
+            content: '💌';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 3rem;
+            opacity: 0.6;
+        }
+
+        .envelope-flap {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 50%;
+            background: linear-gradient(135deg, #ffffff 0%, #f5f5f0 100%);
+            transform-origin: top;
+            transition: transform 0.6s ease;
+            border-radius: 10px 10px 0 0;
+            clip-path: polygon(0 0, 50% 100%, 100% 0);
+            z-index: 3;
+            border: 2px solid #d4d4c8;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .envelope-container.open .envelope-flap {
+            transform: rotateX(-180deg);
+        }
+
+        .letter-paper {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            background: #fff;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.3);
+            max-height: 85vh;
+            width: 90%;
+            max-width: 500px;
+            overflow-y: auto;
+            transition: all 0.4s ease;
+            z-index: 1001;
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .letter-paper.open {
+            transform: translate(-50%, -50%) scale(1);
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .letter-paper h2 {
+            font-family: 'Dancing Script', cursive;
+            color: #ff1493;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+        }
+
+        .letter-paper p {
+            color: #333;
+            line-height: 1.8;
+            margin-bottom: 15px;
+            font-size: 0.95rem;
+        }
+
+        .letter-signature {
+            margin-top: 25px;
+            text-align: right;
+            font-style: italic;
+            color: #ff1493;
+            font-weight: 500;
+        }
+
+        .click-hint {
+            color: #ff1493;
+            font-size: 1rem;
+            margin-top: 280px;
+            font-weight: 600;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        /* Page 3 - Gifts */
+        #page3 {
+            background: linear-gradient(135deg, #e0f7ff 0%, #d4f1ff 100%);
+        }
+
+        .gifts-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin-top: 30px;
+            padding: 0 10px;
+        }
+
+        .gift-item {
+            background: linear-gradient(135deg, #ff69b4, #ff1493);
+            border-radius: 20px;
+            padding: 30px 20px;
+            box-shadow: 0 8px 25px rgba(255, 20, 147, 0.3);
+            transition: transform 0.3s ease;
+            cursor: pointer;
+        }
+
+        .gift-item:hover {
+            transform: translateY(-10px);
+        }
+
+        .gift-icon {
+            font-size: 3rem;
+            margin-bottom: 10px;
+        }
+
+        .gift-text {
+            color: white;
+            font-weight: 600;
+            font-size: 1rem;
+        }
+
+        /* Page 4 - Memories */
+        #page4 {
+            background: linear-gradient(135deg, #fff9e6 0%, #fff4d9 100%);
+        }
+
+        .memory-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin-top: 30px;
+            padding: 0 10px;
+        }
+
+        .memory-card {
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .memory-card:hover {
+            transform: scale(1.05);
+        }
+
+        .memory-photo {
+            width: 100%;
+            height: 150px;
+            background: linear-gradient(135deg, #ffb3d9, #ff69b4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+        }
+
+        .memory-label {
+            padding: 15px;
+            font-weight: 600;
+            color: #ff1493;
+            font-size: 0.9rem;
+        }
+
+        /* Page 5 - Compliments */
+        #page5 {
+            background: linear-gradient(135deg, #f5e6ff 0%, #ead9ff 100%);
+        }
+
+        .compliment-card {
+            background: white;
+            border-radius: 20px;
+            padding: 25px;
+            margin: 15px 10px;
+            box-shadow: 0 8px 25px rgba(255, 20, 147, 0.2);
+            border-left: 5px solid #ff1493;
+        }
+
+        .compliment-card h3 {
+            color: #ff1493;
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+        }
+
+        .compliment-card p {
+            color: #555;
+            line-height: 1.6;
+            font-size: 0.95rem;
+        }
+
+        /* Page 6 - Final */
+        #page6 {
+            background: linear-gradient(135deg, #ffe6f0 0%, #ffd6e8 100%);
+        }
+
+        .heart-big {
+            font-size: 5rem;
+            animation: heartbeat 1.5s ease-in-out infinite;
+            margin-bottom: 20px;
+        }
+
+        @keyframes heartbeat {
+            0%, 100% { transform: scale(1); }
+            25%, 75% { transform: scale(1.1); }
+            50% { transform: scale(1.05); }
+        }
+
+        .final-message-box {
+            background: white;
+            border-radius: 25px;
+            padding: 30px 25px;
+            margin: 20px 10px;
+            box-shadow: 0 10px 30px rgba(255, 20, 147, 0.3);
+        }
+
+        .final-message-box h2 {
+            font-family: 'Dancing Script', cursive;
+            color: #ff1493;
+            font-size: 1.8rem;
+            margin-bottom: 15px;
+        }
+
+        .final-message-box p {
+            color: #333;
+            line-height: 1.7;
+            margin-bottom: 15px;
+            font-size: 0.95rem;
+        }
+
+        .final-emphasis {
+            font-size: 1.5rem;
+            color: #ff1493;
+            font-weight: 700;
+            margin: 20px 0;
+        }
+
+        /* Navigation */
+        .nav-buttons {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 1000;
+            display: flex;
+            gap: 15px;
+        }
+
+        button {
+            padding: 12px 25px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            border: none;
+            background: linear-gradient(135deg, #ff69b4, #ff1493);
+            color: white;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(255, 20, 147, 0.4);
+            font-family: 'Quicksand', sans-serif;
+        }
+
+        button:active {
+            transform: scale(0.95);
+        }
+
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .page-num {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: white;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-weight: 600;
+            color: #ff1493;
+            box-shadow: 0 5px 15px rgba(255, 20, 147, 0.3);
+            z-index: 1000;
+            font-size: 0.9rem;
+        }
+
+        /* Floating hearts */
+        .floating-hearts {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            pointer-events: none;
+        }
+
+        .heart {
+            position: absolute;
+            bottom: -50px;
+            font-size: 20px;
+            animation: float-up 8s ease-in-out infinite;
+            opacity: 0.7;
+        }
+
+        @keyframes float-up {
+            0% {
+                bottom: -50px;
+                opacity: 0;
+            }
+            50% {
+                opacity: 0.7;
+            }
+            100% {
+                bottom: 110%;
+                opacity: 0;
+            }
+        }
+
+        .section-title {
+            font-family: 'Dancing Script', cursive;
+            font-size: 2.2rem;
+            color: #ff1493;
+            margin-bottom: 15px;
+            text-shadow: 2px 2px 4px rgba(255, 20, 147, 0.2);
+        }
+
+        .section-subtitle {
+            color: #ff1493;
+            font-size: 1rem;
+            margin-bottom: 20px;
+            font-weight: 500;
+        }
+
+        /* Custom scrollbar for letter */
+        .letter-paper::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .letter-paper::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+
+        .letter-paper::-webkit-scrollbar-thumb {
+            background: #ff69b4;
+            border-radius: 10px;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .title-main {
+                font-size: 2.5rem;
+            }
+
+            .crown-big {
+                font-size: 80px;
+            }
+
+            .section-title {
+                font-size: 2rem;
+            }
+
+            .gifts-grid,
+            .memory-grid {
+                gap: 15px;
+                padding: 0 15px;
+            }
+
+            .gift-item {
+                padding: 25px 15px;
+            }
+
+            .compliment-card {
+                margin: 12px 15px;
+                padding: 20px;
+            }
+
+            .final-message-box {
+                padding: 25px 20px;
+                margin: 20px 15px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .title-main {
+                font-size: 2rem;
+            }
+
+            .crown-big {
+                font-size: 60px;
+            }
+
+            .subtitle-text {
+                font-size: 0.95rem;
+                margin: 12px 15px;
+            }
+
+            .section-title {
+                font-size: 1.7rem;
+            }
+
+            .section-subtitle {
+                font-size: 0.9rem;
+            }
+
+            .envelope-container {
+                max-width: 300px;
+                height: 200px;
+            }
+
+            .letter-paper {
+                width: 92%;
+                padding: 25px 20px;
+                max-height: 75vh;
+            }
+
+            .letter-paper h2 {
+                font-size: 1.5rem;
+            }
+
+            .letter-paper p {
+                font-size: 0.9rem;
+                line-height: 1.7;
+            }
+
+            .gifts-grid,
+            .memory-grid {
+                gap: 12px;
+                padding: 0 10px;
+            }
+
+            .gift-item {
+                padding: 20px 12px;
+            }
+
+            .gift-icon {
+                font-size: 2.5rem;
+            }
+
+            .gift-text {
+                font-size: 0.9rem;
+            }
+
+            .memory-photo {
+                height: 120px;
+                font-size: 2.5rem;
+            }
+
+            .memory-label {
+                padding: 12px;
+                font-size: 0.85rem;
+            }
+
+            .compliment-card {
+                margin: 10px;
+                padding: 18px;
+            }
+
+            .compliment-card h3 {
+                font-size: 1.1rem;
+            }
+
+            .compliment-card p {
+                font-size: 0.88rem;
+            }
+
+            .heart-big {
+                font-size: 3.5rem;
+            }
+
+            .final-message-box {
+                padding: 22px 18px;
+                margin: 15px 10px;
+            }
+
+            .final-message-box h2 {
+                font-size: 1.5rem;
+            }
+
+            .final-message-box p {
+                font-size: 0.88rem;
+            }
+
+            .final-emphasis {
+                font-size: 1.3rem;
+            }
+
+            button {
+                padding: 10px 18px;
+                font-size: 0.85rem;
+            }
+
+            .page-num {
+                padding: 8px 15px;
+                font-size: 0.85rem;
+                top: 15px;
+                right: 15px;
+            }
+
+            .nav-buttons {
+                gap: 10px;
+                bottom: 15px;
+            }
+
+            .click-hint {
+                font-size: 0.9rem;
+                margin-top: 230px;
+            }
+        }
+
+        @media (max-width: 360px) {
+            .title-main {
+                font-size: 1.7rem;
+            }
+
+            .crown-big {
+                font-size: 50px;
+            }
+
+            .section-title {
+                font-size: 1.5rem;
+            }
+
+            .envelope-container {
+                max-width: 280px;
+                height: 180px;
+            }
+
+            .letter-paper {
+                padding: 20px 15px;
+            }
+
+            .letter-paper h2 {
+                font-size: 1.3rem;
+            }
+
+            .letter-paper p {
+                font-size: 0.85rem;
+            }
+
+            .gifts-grid,
+            .memory-grid {
+                gap: 10px;
+            }
+
+            .gift-item {
+                padding: 18px 10px;
+            }
+
+            .gift-icon {
+                font-size: 2.2rem;
+            }
+
+            .memory-photo {
+                height: 100px;
+                font-size: 2.2rem;
+            }
+
+            .final-message-box h2 {
+                font-size: 1.3rem;
+            }
+
+            button {
+                padding: 9px 15px;
+                font-size: 0.8rem;
+            }
+
+            .click-hint {
+                margin-top: 200px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay" id="overlay"></div>
+    <div class="page-num">Page <span id="pageNum">1</span> of 6</div>
+
+    <!-- Page 1: Welcome -->
+    <div class="page" id="page1">
+        <div class="floating-hearts" id="hearts1"></div>
+        <div class="content">
+            <div class="crown-big">👑</div>
+            <h1 class="title-main">Happy Princess Day!</h1>
+            <p class="subtitle-text">To my Precious Princess " "</p>
+            <p class="subtitle-text">✨ Get ready for something special ✨</p>
+        </div>
+    </div>
+
+    <!-- Page 2: Letter -->
+    <div class="page" id="page2" style="display: none;">
+        <div class="floating-hearts" id="hearts2"></div>
+        <div class="content">
+            <h2 class="section-title">A Letter For You</h2>
+            <div class="envelope-wrapper">
+                <div class="envelope-container" id="envelope">
+                    <div class="envelope-back"></div>
+                    <div class="envelope-flap"></div>
+                </div>
+                <p class="click-hint" id="clickHint">👆 Tap to open</p>
+            </div>
+        </div>
+        <div class="letter-paper" id="letterPaper">
+            <h2>Dear My Precious Princess " ",</h2>
+            <p>Today is YOUR day - Princess Day! And I couldn't let it pass without telling you how incredibly special you are to me.</p>
+            <p>You're not just my best friend; you're my partner in crime, my shoulder to cry on, my laughter generator, and my constant source of inspiration.</p>
+            <p>Your kindness lights up every room you enter. Your smile has the power to turn the darkest days into sunshine. Your strength inspires me to be better every single day.</p>
+            <p>Thank you for being YOU - for your silly jokes, your funny texts, your endless support, and for making life so much more colorful and fun!</p>
+            <p>You deserve all the happiness, love, and magic in the world. Every moment with you is a treasure, and I'm so grateful to have you in my life.</p>
+            <p style="color: #ff1493; font-weight: 700;">Happy Princess Day, my forever bestie! 👑💖</p>
+            <p class="letter-signature">With all my love,<br>Your Best Friend Forever "Sayed Hamza"💕</p>
+        </div>
+    </div>
+
+    <!-- Page 3: Gifts -->
+    <div class="page" id="page3" style="display: none;">
+        <div class="floating-hearts" id="hearts3"></div>
+        <div class="content">
+            <h2 class="section-title">Gifts For You</h2>
+            <p class="section-subtitle">Special things I'm giving you today 🎁</p>
+            <div class="gifts-grid">
+                <div class="gift-item">
+                    <div class="gift-icon">😄</div>
+                    <div class="gift-text">Endless Laughter</div>
+                </div>
+                <div class="gift-item">
+                    <div class="gift-icon">🤗</div>
+                    <div class="gift-text">Lifetime Support</div>
+                </div>
+                <div class="gift-item">
+                    <div class="gift-icon">💖</div>
+                    <div class="gift-text">Infinite Love</div>
+                </div>
+                <div class="gift-item">
+                    <div class="gift-icon">📸</div>
+                    <div class="gift-text">Best Memories</div>
+                </div>
+                <div class="gift-item">
+                    <div class="gift-icon">👭</div>
+                    <div class="gift-text">True Friendship</div>
+                </div>
+                <div class="gift-item">
+                    <div class="gift-icon">✨</div>
+                    <div class="gift-text">Forever Sparkle</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 4: Memories -->
+    <div class="page" id="page4" style="display: none;">
+        <div class="floating-hearts" id="hearts4"></div>
+        <div class="content">
+            <h2 class="section-title">Our Memories</h2>
+            <p class="section-subtitle">Every moment with you is special 📷</p>
+            <div class="memory-grid">
+                <div class="memory-card">
+                    <div class="memory-photo">😂</div>
+                    <div class="memory-label">Endless laugh</div>
+                </div>
+                <div class="memory-card">
+                    <div class="memory-photo">🏛️</div>
+                    <div class="memory-label">The Never ending Panchayat</div>
+                </div>
+                <div class="memory-card">
+                    <div class="memory-photo">☕</div>
+                    <div class="memory-label">The Aunties Like Gossips</div>
+                </div>
+                <div class="memory-card">
+                    <div class="memory-photo">🤗</div>
+                    <div class="memory-label">Your Care for me</div>
+                </div>
+                <div class="memory-card">
+                    <div class="memory-photo">🎊</div>
+                    <div class="memory-label">Endless Maza</div>
+                </div>
+                <div class="memory-card">
+                    <div class="memory-photo">💕</div>
+                    <div class="memory-label">Our Special Bond</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 5: Compliments -->
+    <div class="page" id="page5" style="display: none;">
+        <div class="floating-hearts" id="hearts5"></div>
+        <div class="content">
+            <h2 class="section-title">Why You're Amazing</h2>
+            <p class="section-subtitle">Just a few reasons you're the best  but there are endless reasons. ⭐</p>
+            <div class="compliment-card">
+                <h3>💝 You're Incredibly KIND</h3>
+                <p>Your compassion and empathy for others never cease to amaze me. You always know how to make everyone feel special and loved.</p>
+            </div>
+            <div class="compliment-card">
+                <h3>💪 You're Amazingly STRONG</h3>
+                <p>The way you handle challenges with grace and determination inspires me daily. You never give up, and that's truly admirable!</p>
+            </div>
+            <div class="compliment-card">
+                <h3>🌟 You're Perfectly YOU</h3>
+                <p>Your authentic self is what makes you so beautiful. Never change who you are because you're absolutely perfect just the way you are!</p>
+            </div>
+            <div class="compliment-card">
+                <h3>👑 You're My BEST FRIEND</h3>
+                <p>And that's the best thing you could ever be! Thank you for being you, for being here, and for being mine! Forever grateful! 💖</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page 6: Final -->
+    <div class="page" id="page6" style="display: none;">
+        <div class="floating-hearts" id="hearts6"></div>
+        <div class="content">
+            <div class="heart-big">💖</div>
+            <div class="final-message-box">
+                <h2>You're My Princess Today & Every Day!</h2>
+                <p>As we close this magical journey, I want you to remember that you're royalty every single day - not just on Princess Day!</p>
+                <p>Your crown might be invisible, but it's always there. Your strength, beauty, kindness, and amazing spirit make you the truest princess I know.</p>
+                <p>May your days be filled with joy, your heart with love, and your life with endless magical moments!</p>
+                <p class="final-emphasis">Happy Princess Day! 👑✨💖</p>
+                <div class="final-emphasis">Hamza's Princess " "</div>
+                <p style="font-style: italic; color: #ff1493;">Love you to the moon and back, bestie! 🌙💫</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <div class="nav-buttons">
+        <button id="prevBtn" disabled>← Previous</button>
+        <button id="nextBtn">Next →</button>
+    </div>
+
+    <script>
+        let currentPage = 1;
+        const totalPages = 6;
+
+        // Envelope click handler
+        const envelope = document.getElementById('envelope');
+        const overlay = document.getElementById('overlay');
+        const letterPaper = document.getElementById('letterPaper');
+        
+        envelope.addEventListener('click', function(e) {
+            e.stopPropagation();
+            this.classList.toggle('open');
+            letterPaper.classList.toggle('open');
+            overlay.classList.toggle('active');
+            const hint = document.getElementById('clickHint');
+            if (this.classList.contains('open')) {
+                hint.textContent = '👆 Tap to close';
+                document.body.style.overflow = 'hidden';
+            } else {
+                hint.textContent = '👆 Tap to open';
+                document.body.style.overflow = 'auto';
+            }
+        });
+
+        overlay.addEventListener('click', function() {
+            envelope.classList.remove('open');
+            letterPaper.classList.remove('open');
+            overlay.classList.remove('active');
+            document.getElementById('clickHint').textContent = '👆 Tap to open';
+            document.body.style.overflow = 'auto';
+        });
+
+        letterPaper.addEventListener('click', function(e) {
+            e.stopPropagation();
+        });
+
+        function changePage(direction) {
+            const oldPage = currentPage;
+            currentPage += direction;
+
+            if (currentPage < 1) currentPage = 1;
+            if (currentPage > totalPages) currentPage = totalPages;
+
+            document.getElementById(`page${oldPage}`).style.display = 'none';
+            document.getElementById(`page${currentPage}`).style.display = 'flex';
+
+            document.getElementById('pageNum').textContent = currentPage;
+            // prevBtn should be disabled only on the first page; nextBtn remains enabled
+            document.getElementById('prevBtn').disabled = currentPage === 1;
+            document.getElementById('nextBtn').disabled = false;
+
+            if (currentPage === totalPages) {
+                document.getElementById('nextBtn').textContent = '🎉 The End';
+            } else {
+                document.getElementById('nextBtn').textContent = 'Next →';
+            }
+
+            // Close envelope when changing pages
+            envelope.classList.remove('open');
+            letterPaper.classList.remove('open');
+            overlay.classList.remove('active');
+            document.getElementById('clickHint').textContent = '👆 Tap to open';
+            document.body.style.overflow = 'auto';
+
+            createFloatingHearts();
+        }
+
+        function createFloatingHearts() {
+            const container = document.getElementById(`hearts${currentPage}`);
+            if (!container) return;
+            
+            const hearts = ['💖', '💕', '💗', '💓', '💝', '✨', '⭐', '🌟'];
+            
+            for (let i = 0; i < 5; i++) {
+                setTimeout(() => {
+                    const heart = document.createElement('div');
+                    heart.className = 'heart';
+                    heart.textContent = hearts[Math.floor(Math.random() * hearts.length)];
+                    heart.style.left = Math.random() * 100 + '%';
+                    heart.style.animationDuration = (Math.random() * 3 + 5) + 's';
+                    heart.style.animationDelay = Math.random() * 2 + 's';
+                    container.appendChild(heart);
+
+                    setTimeout(() => heart.remove(), 8000);
+                }, i * 500);
+            }
+        }
+
+        // Initial hearts
+        createFloatingHearts();
+
+        // Continuous hearts
+        setInterval(() => {
+            if (Math.random() > 0.5) {
+                createFloatingHearts();
+            }
+        }, 3000);
+
+        // Add explicit listeners for Prev/Next to control final-page behavior
+        const prevBtn = document.getElementById('prevBtn');
+        const nextBtn = document.getElementById('nextBtn');
+
+        // Prev button uses changePage as before
+        prevBtn.addEventListener('click', () => changePage(-1));
+
+        // Next button: if not on final page, advance; if on final page, restart to page 1
+        nextBtn.addEventListener('click', () => {
+            if (currentPage === totalPages) {
+                // hide current final page
+                const old = document.getElementById(`page${currentPage}`);
+                if (old) old.style.display = 'none';
+
+                // reset to first page
+                currentPage = 1;
+                document.getElementById(`page${currentPage}`).style.display = 'flex';
+                document.getElementById('pageNum').textContent = currentPage;
+
+                // reset buttons and UI
+                prevBtn.disabled = true;
+                nextBtn.textContent = 'Next →';
+                nextBtn.disabled = false;
+
+                // close any open envelope/overlay
+                envelope.classList.remove('open');
+                letterPaper.classList.remove('open');
+                overlay.classList.remove('active');
+                const hint = document.getElementById('clickHint');
+                if (hint) hint.textContent = '👆 Tap to open';
+                document.body.style.overflow = 'auto';
+
+                // refresh hearts for page 1
+                createFloatingHearts();
+            } else {
+                changePage(1);
+            }
+        });
+    </script>
+</body>
+</html>

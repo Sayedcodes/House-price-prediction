@@ -1,0 +1,3965 @@
+2025-12-06 19:15:26,319 - INFO - ======================================================================
+2025-12-06 19:15:26,329 - INFO - ======================================================================
+2025-12-06 19:15:26,335 - INFO - 
+======================================================================
+2025-12-06 19:15:26,338 - INFO - ======================================================================
+2025-12-06 19:16:18,221 - INFO - Searching for: Data Analyst
+2025-12-06 19:16:34,818 - INFO - Searching for: Business Analyst
+2025-12-06 19:17:26,520 - INFO - 
+======================================================================
+2025-12-06 19:17:26,531 - INFO - ======================================================================
+2025-12-06 19:17:38,455 - INFO - Searching: Data Analyst
+2025-12-06 19:18:27,411 - INFO - 
+======================================================================
+2025-12-06 19:18:27,415 - INFO - ======================================================================
+2025-12-06 19:18:51,208 - INFO - 
+======================================================================
+2025-12-06 19:18:51,213 - INFO - ======================================================================
+2025-12-08 00:58:59,048 - INFO - ======================================================================
+2025-12-08 00:58:59,061 - INFO - ======================================================================
+2025-12-08 00:58:59,066 - INFO - 
+======================================================================
+2025-12-08 00:58:59,067 - INFO - ======================================================================
+2025-12-08 00:58:59,068 - INFO - ====== WebDriver manager ======
+2025-12-08 00:59:03,385 - INFO - Get LATEST edgedriver version for Edge 143.0.3650
+2025-12-08 01:02:01,673 - INFO - ======================================================================
+2025-12-08 01:02:01,674 - INFO - 🚀 JOB APPLICATION AUTOMATION - SAYED HAMZA
+2025-12-08 01:02:01,674 - INFO - ======================================================================
+2025-12-08 01:02:01,674 - INFO - 📊 Total applications sent: 0
+2025-12-08 01:02:01,674 - INFO - 📅 Today's date: 2025-12-08
+2025-12-08 01:02:01,675 - INFO - 
+======================================================================
+2025-12-08 01:02:01,675 - INFO - 📍 INDEED.COM
+2025-12-08 01:02:01,676 - INFO - ======================================================================
+2025-12-08 01:02:04,509 - INFO - ✓ Edge browser opened successfully
+2025-12-08 01:02:04,510 - INFO - 🔍 Starting Indeed job search...
+2025-12-08 01:02:13,362 - INFO - Searching for: Data Analyst
+2025-12-08 01:02:24,342 - INFO - Searching for: Business Analyst
+2025-12-08 01:02:29,502 - INFO - 📋 Found: Data Analyst / Founder's office
+- job post at Lynkit
+2025-12-08 01:02:29,513 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:02:33,736 - INFO - 📋 Found: Operations Analyst
+- job post at Lynkit
+2025-12-08 01:02:33,750 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:02:38,062 - INFO - 📋 Found: Senior Business Analyst
+- job post at Lynkit
+2025-12-08 01:02:38,075 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:02:42,410 - INFO - 📋 Found: Data Analyst
+- job post at Lynkit
+2025-12-08 01:02:42,439 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:02:46,681 - INFO - 📋 Found: MIS Executive
+- job post at Lynkit
+2025-12-08 01:02:46,711 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:02:50,891 - INFO - 📋 Found: Bilingual Business Analyst
+- job post at Lynkit
+2025-12-08 01:02:50,903 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:02:55,106 - INFO - 📋 Found: Data Analyst Trainer
+- job post at Lynkit
+2025-12-08 01:02:55,113 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:02:59,294 - INFO - 📋 Found: Remote Data Governance Analyst
+- job post at Lynkit
+2025-12-08 01:02:59,304 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:03:03,488 - INFO - 📋 Found: Business Operations Analyst - Talent Acquisition
+- job post at Lynkit
+2025-12-08 01:03:03,497 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:03:07,665 - INFO - 📋 Found: Senior Research Analyst
+- job post at Lynkit
+2025-12-08 01:03:07,692 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:03:11,820 - INFO - 📋 Found: Senior MIS Executive
+- job post at Lynkit
+2025-12-08 01:03:11,827 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:03:16,042 - INFO - 📋 Found: Software Analyst
+- job post at Lynkit
+2025-12-08 01:03:16,053 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:03:17,110 - ERROR - ❌ Error processing job card: Message: element not interactable
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c31fc746
+	0x7ff6c3244063
+	0x7ff6c323a9e6
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c323a1fd
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:21,279 - INFO - 📋 Found: MIS Executive
+- job post at Lynkit
+2025-12-08 01:03:21,291 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:03:25,505 - INFO - 📋 Found: MIS Executive
+- job post at Lynkit
+2025-12-08 01:03:25,513 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:03:34,584 - INFO - Searching for: Data Analytics
+2025-12-08 01:03:40,144 - INFO - 📋 Found: Senior Data Analyst (Predictive Analytics, Key) - X Delivery
+- job post at Boston Consulting Group
+2025-12-08 01:03:40,153 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:03:44,367 - INFO - 📋 Found: Legal Operations Data Analyst
+- job post at Boston Consulting Group
+2025-12-08 01:03:44,377 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:03:48,596 - INFO - 📋 Found: Data Analyst
+- job post at Boston Consulting Group
+2025-12-08 01:03:48,606 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:03:54,163 - ERROR - ❌ Error getting job details: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2.jobsearch-JobInfoHeader-title span"}
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c3242d9e
+	0x7ff6c3242ffb
+	0x7ff6c327e917
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,167 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,170 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,172 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,175 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,178 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,180 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,183 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,186 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,190 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,193 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:03:54,196 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:04,857 - INFO - Searching for: Junior Data Analyst
+2025-12-08 01:04:11,886 - INFO - 📋 Found: Data Analyst
+- job post at Infobyd software solution pvt ltd
+2025-12-08 01:04:11,905 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:04:16,107 - INFO - 📋 Found: Data Analyst - Junior/Senior
+- job post at Infobyd software solution pvt ltd
+2025-12-08 01:04:16,116 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:04:20,288 - INFO - 📋 Found:  at Infobyd software solution pvt ltd
+2025-12-08 01:04:20,299 - INFO - ⏭️ No easy apply option available
+2025-12-08 01:04:25,584 - ERROR - ❌ Error getting job details: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2.jobsearch-JobInfoHeader-title span"}
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c3242d9e
+	0x7ff6c3242ffb
+	0x7ff6c327e917
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,588 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,590 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,594 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,596 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,598 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,601 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,604 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,608 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,610 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,613 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:25,615 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:34,879 - INFO - Searching for: Power BI Analyst
+2025-12-08 01:04:41,761 - ERROR - ❌ Error getting job details: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2.jobsearch-JobInfoHeader-title span"}
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c3242d9e
+	0x7ff6c3242ffb
+	0x7ff6c327e917
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,765 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,769 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,775 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,779 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,782 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,786 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,789 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,791 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,793 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,797 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,799 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,803 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,806 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:41,808 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:04:44,082 - INFO - ✓ Indeed applications: 0
+2025-12-08 01:04:44,085 - INFO - 
+======================================================================
+2025-12-08 01:04:44,086 - INFO - 📍 NAUKRI.COM
+2025-12-08 01:04:44,086 - INFO - ======================================================================
+2025-12-08 01:04:45,361 - INFO - ✓ Edge browser opened successfully
+2025-12-08 01:04:45,362 - INFO - 🔍 Starting Naukri job search...
+2025-12-08 01:04:57,945 - INFO - ✓ Logged into Naukri
+2025-12-08 01:05:02,365 - INFO - Searching: Data Analyst
+2025-12-08 01:05:02,520 - INFO - 📋 Found: Data Analyst at Capgemini
+2025-12-08 01:05:07,324 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:05:07,570 - ERROR - ❌ Error: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c31fc746
+	0x7ff6c323837c
+	0x7ff6c3262252
+	0x7ff6c321288d
+	0x7ff6c325ee8c
+	0x7ff6c325e77e
+	0x7ff6c31d6405
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c31d4ed8
+	0x7ff6c360c188
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:05:07,572 - ERROR - ❌ Naukri automation error: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c31fc746
+	0x7ff6c323837c
+	0x7ff6c3262252
+	0x7ff6c321288d
+	0x7ff6c325ee8c
+	0x7ff6c325e77e
+	0x7ff6c31d6405
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c31d4ed8
+	0x7ff6c360c188
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:05:09,600 - INFO - ✓ Naukri applications: 0
+2025-12-08 01:05:09,601 - INFO - 
+======================================================================
+2025-12-08 01:05:09,602 - INFO - 📍 LINKEDIN
+2025-12-08 01:05:09,602 - INFO - ======================================================================
+2025-12-08 01:05:10,936 - INFO - ✓ Edge browser opened successfully
+2025-12-08 01:05:10,937 - INFO - 🔍 Starting LinkedIn job search...
+2025-12-08 01:05:22,004 - INFO - ✓ Logged into LinkedIn
+2025-12-08 01:05:30,367 - INFO - ✓ LinkedIn applications: 0
+2025-12-08 01:05:30,368 - INFO - 
+======================================================================
+2025-12-08 01:05:30,369 - INFO - 🎯 TOTAL APPLICATIONS TODAY: 0
+2025-12-08 01:05:30,369 - INFO - 📈 OVERALL TOTAL: 0
+2025-12-08 01:05:30,370 - INFO - ======================================================================
+2025-12-08 01:05:30,370 - INFO - ⚠️ No applications submitted. Check portal credentials and job availability.
+2025-12-08 01:16:02,058 - INFO - ======================================================================
+2025-12-08 01:16:02,059 - INFO - 🚀 JOB APPLICATION AUTOMATION - SAYED HAMZA
+2025-12-08 01:16:02,059 - INFO - ======================================================================
+2025-12-08 01:16:02,060 - INFO - 📊 Total applications sent: 0
+2025-12-08 01:16:02,060 - INFO - 📅 Today's date: 2025-12-08
+2025-12-08 01:16:02,060 - INFO - 
+======================================================================
+2025-12-08 01:16:02,060 - INFO - 📍 INDEED.COM
+2025-12-08 01:16:02,061 - INFO - ======================================================================
+2025-12-08 01:16:03,340 - INFO - ✓ Edge browser opened successfully
+2025-12-08 01:16:03,341 - INFO - 🔍 Starting Indeed job search...
+2025-12-08 01:16:11,866 - INFO - Searching for: Data Analyst
+2025-12-08 01:16:17,736 - ERROR - ❌ Error getting job details: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2.jobsearch-JobInfoHeader-title span"}
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c3242d9e
+	0x7ff6c3242ffb
+	0x7ff6c327e917
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,743 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,749 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,753 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,759 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,763 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,766 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,769 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,771 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,774 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,777 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,779 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,782 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,784 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:17,786 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:27,287 - INFO - Searching for: Business Analyst
+2025-12-08 01:16:34,099 - ERROR - ❌ Error getting job details: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2.jobsearch-JobInfoHeader-title span"}
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c3242d9e
+	0x7ff6c3242ffb
+	0x7ff6c327e917
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,106 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,118 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,128 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,140 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,154 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,165 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,170 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,180 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,188 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,195 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,201 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,210 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,217 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:34,225 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:43,733 - INFO - Searching for: Data Analytics
+2025-12-08 01:16:49,658 - ERROR - ❌ Error getting job details: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2.jobsearch-JobInfoHeader-title span"}
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c3242d9e
+	0x7ff6c3242ffb
+	0x7ff6c327e917
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,662 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,665 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,677 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,680 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,682 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,684 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,687 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,689 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,693 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,696 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,698 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,700 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,702 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:49,706 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:16:58,852 - INFO - Searching for: Junior Data Analyst
+2025-12-08 01:17:04,920 - ERROR - ❌ Error getting job details: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2.jobsearch-JobInfoHeader-title span"}
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c3242d9e
+	0x7ff6c3242ffb
+	0x7ff6c327e917
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,926 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,933 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,941 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,948 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,952 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,956 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,961 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,966 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,969 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,974 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,979 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,983 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,987 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:04,993 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:14,353 - INFO - Searching for: Power BI Analyst
+2025-12-08 01:17:20,306 - ERROR - ❌ Error getting job details: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2.jobsearch-JobInfoHeader-title span"}
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c3242d9e
+	0x7ff6c3242ffb
+	0x7ff6c327e917
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,311 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,318 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,326 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,331 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,335 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,337 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,341 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,344 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,347 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,349 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,351 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,354 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,358 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:20,361 - ERROR - ❌ Error processing job card: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=143.0.3650.66); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c3479435
+	0x7ff6c33e9aa4
+	0x7ff6c37d2d12
+	0x7ff6c320d09b
+	0x7ff6c320c266
+	0x7ff6c320d5df
+	0x7ff6c3202e73
+	0x7ff6c320d610
+	0x7ff6c3202e73
+	0x7ff6c3201688
+	0x7ff6c3204acc
+	0x7ff6c327d1f4
+	0x7ff6c32623ea
+	0x7ff6c323a2e5
+	0x7ff6c327c8de
+	0x7ff6c323982a
+	0x7ff6c3238b33
+	0x7ff6c3239653
+	0x7ff6c3321d64
+	0x7ff6c3330b1c
+	0x7ff6c332a6ff
+	0x7ff6c350a7f7
+	0x7ff6c33f5306
+	0x7ff6c33ef714
+	0x7ff6c33ef859
+	0x7ff6c33e391d
+	0x7ffb253fe8d7
+	0x7ffb2682c53c
+
+2025-12-08 01:17:22,669 - INFO - ✓ Indeed applications: 0
+2025-12-08 01:17:22,670 - INFO - 
+======================================================================
+2025-12-08 01:17:22,670 - INFO - 📍 NAUKRI.COM
+2025-12-08 01:17:22,671 - INFO - ======================================================================
+2025-12-08 01:17:24,007 - INFO - ✓ Edge browser opened successfully
+2025-12-08 01:17:24,008 - INFO - 🔍 Starting Naukri job search...
+2025-12-08 01:17:37,077 - INFO - ✓ Logged into Naukri
+2025-12-08 01:17:41,523 - INFO - Searching: Data Analyst
+2025-12-08 01:17:41,614 - INFO - 📋 Found: Data Analyst at Capgemini
+2025-12-08 01:17:50,067 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:17:52,172 - INFO - 📋 Found: Data Analyst, Dutch Language Translation at S&P Global Market Intelligence
+2025-12-08 01:18:00,625 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:18:02,769 - INFO - 📋 Found: Analyst Data Governance & Mgmt at AMERICAN EXPRESS
+2025-12-08 01:18:11,193 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:18:13,326 - INFO - 📋 Found: Data Analyst at Info Edge
+2025-12-08 01:18:21,745 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:18:23,872 - INFO - 📋 Found: Query Writer-Data Analyst at Airtel
+2025-12-08 01:18:32,315 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:18:34,433 - INFO - 📋 Found: Data Ops DQ Analyst at Barclays
+2025-12-08 01:18:42,794 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:18:44,931 - INFO - 📋 Found: Data Analyst at Rockwell Automation
+2025-12-08 01:18:53,296 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:18:55,414 - INFO - 📋 Found: Data Analyst - Python at AkzoNobel
+2025-12-08 01:19:03,785 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:19:05,924 - INFO - 📋 Found: Data Analyst at Canon
+2025-12-08 01:19:14,315 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:19:16,441 - INFO - 📋 Found: Data Analyst at Pinkerton Corporate Risk Management India Private Limited
+2025-12-08 01:19:24,799 - INFO - ⏭️ Could not apply to this job
+2025-12-08 01:19:31,092 - INFO - Searching: Business Analyst
+2025-12-08 01:19:35,446 - INFO - Searching: Data Analytics
+2025-12-08 01:19:37,769 - INFO - ✓ Naukri applications: 0
+2025-12-08 01:19:37,771 - INFO - 
+======================================================================
+2025-12-08 01:19:37,771 - INFO - 📍 LINKEDIN
+2025-12-08 01:19:37,772 - INFO - ======================================================================
+2025-12-08 01:19:39,015 - INFO - ✓ Edge browser opened successfully
+2025-12-08 01:19:39,016 - INFO - 🔍 Starting LinkedIn job search...
+2025-12-08 01:19:49,337 - INFO - ✓ Logged into LinkedIn
+2025-12-08 01:19:57,020 - INFO - ✓ LinkedIn applications: 0
+2025-12-08 01:19:57,020 - INFO - 
+======================================================================
+2025-12-08 01:19:57,021 - INFO - 🎯 TOTAL APPLICATIONS TODAY: 0
+2025-12-08 01:19:57,021 - INFO - 📈 OVERALL TOTAL: 0
+2025-12-08 01:19:57,021 - INFO - ======================================================================
+2025-12-08 01:19:57,021 - INFO - ⚠️ No applications submitted. Check portal credentials and job availability.

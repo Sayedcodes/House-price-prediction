@@ -1,0 +1,49 @@
+
+# ============================================
+# UPDATED CONFIG - PASTE THIS IN YOUR SCRIPT
+# ============================================
+
+CONFIG = {
+    # Your Profile Details
+    "full_name": "Sayed Hamza",
+    "email": "sayedmohammadhamza45@gmail.com",
+    "phone": "+91-9717517469",
+    "linkedin": "https://www.linkedin.com/in/Sayed-Hamza",
+    "github": "https://github.com/Sayedcodes",
+    "location": "Delhi, India",
+    
+    # Job Search Criteria
+    "job_titles": ["Data Analyst", "Business Analyst", "Data Analytics", "Junior Data Analyst", "Power BI Analyst"],
+    "keywords": ["Power BI", "SQL", "Excel", "Data Analytics", "Dashboard", "Python", "Tableau"],
+    "experience_level": "entry",
+    
+    # File Paths - UPDATED WITH YOUR ACTUAL PATH
+    "resume_path": "C:/Users/Sayed Mohammad Hamza/Downloads/BEG-05_Important_Answers_Hamza.pdf",
+    "applied_jobs_log": "applied_jobs.json",
+    
+    # Email Configuration (for Gmail)
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "sayedmohammadhamza45@gmail.com",
+    "sender_password": "xxxx xxxx xxxx xxxx",  # UPDATE WITH GMAIL APP PASSWORD
+    
+    # Job Portals Credentials
+    "indeed": {
+        "email": "sayedmohammadhamza45@gmail.com",
+        "password": "your_indeed_password"  # UPDATE THIS
+    },
+    "naukri": {
+        "email": "sayedmohammadhamza45@gmail.com",
+        "password": "your_naukri_password"  # UPDATE THIS
+    },
+    "linkedin": {
+        "email": "sayedmohammadhamza45@gmail.com",
+        "password": "your_linkedin_password"  # UPDATE THIS
+    },
+    
+    # Settings
+    "max_applications_per_day": 50,
+    "run_time": "09:00",
+    "headless_mode": False,
+    "apply_easy_apply_only": True
+}
