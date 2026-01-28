@@ -6,7 +6,7 @@ A simple **Machine Learning web application** built using **Streamlit** that pre
 
 ## 🚀 Live Demo
 
-👉 [https://houseprice-me.streamlit.app](https://houseprice-me.streamlit.app)
+👉 [https://houseprice-me.streamlit.app](https://house-price-prediction-ai.streamlit.app/)
 
 ---
 
@@ -47,9 +47,7 @@ houseprice/
 │
 ├── app.py               # Main Streamlit app
 ├── requirements.txt    # Project dependencies
-├── runtime.txt         # Python version for deployment
-├── model.pkl            # Trained ML model
-├── data.csv             # Dataset (if included)
+├── pipe.pkl            # Trained ML model
 └── README.md            # Project documentation
 ```
 
